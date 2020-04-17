@@ -16,7 +16,7 @@
 @task('npm')
 	cd /home/psreepathi/laravel-projects/laravel-envoy
 	npm install
-	npm rundev
+	npm run dev
 @endtask
 
 
